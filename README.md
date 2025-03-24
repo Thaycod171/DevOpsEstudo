@@ -1,2 +1,0 @@
-# DevOpsEstudo
-Estudando e testando
